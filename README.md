@@ -1,12 +1,37 @@
-# React + Vite
+# 🍕 Fast React Pizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive pizza ordering app built with **React**, **Vite**, **Tailwind CSS**, **Redux Toolkit**, and **React Router v6**.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Fast performance using Vite
+- 📱 Fully responsive UI with Tailwind CSS
+- 🔍 Search for orders by ID
+- 📝 Dynamic pizza menu (title, image, ingredients, price)
+- 🛒 Add to cart, edit quantities, remove items, and clear cart
+- 📍 Get address with geolocation or manual input
+- 🚚 Place priority orders with automatic 20% price adjustment
+- 🧠 State management using Redux Toolkit + Redux Thunks
+- 🧭 Routing powered by modern React Router loaders/actions and `useFetcher`
 
-## Expanding the ESLint configuration
+## 📦 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React + Vite
+- Redux Toolkit + Thunks
+- Tailwind CSS
+- React Router v6
+- Geolocation API
+- LocalStorage (for cart state)
+- Fully modular and clean architecture
+  
+### 🔗 Live Demo
+https://orderfastpizzas.netlify.app/
+
+### 🧑‍💻 Author
+**Omar Taha,**
+
+**Frontend Developer**
+
+📧 omartaha11201@gmail.com
+
+📱 +20 114 839 7833
