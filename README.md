@@ -21,7 +21,6 @@ A modern, fully responsive pizza ordering app built with **React**, **Vite**, **
 - Tailwind CSS
 - React Router v6
 - Geolocation API
-- LocalStorage (for cart state)
 - Fully modular and clean architecture
   
 ### 🔗 Live Demo
