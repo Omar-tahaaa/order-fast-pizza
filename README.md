@@ -2,8 +2,14 @@
 
 A modern, fully responsive pizza ordering app built with **React**, **Vite**, **Tailwind CSS**, **Redux Toolkit**, and **React Router v6**.
 
-### 🔗 Live Demo
-https://orderfastpizzas.netlify.app/
+---
+
+## 📦 Live Demo
+
+✨ Experience Fast React Pizza in action: [orderfastpizzas.netlify.app](https://orderfastpizzas.netlify.app/)  
+Explore the app’s features instantly—no setup required!
+
+---
 
 ## 🚀 Features
 
