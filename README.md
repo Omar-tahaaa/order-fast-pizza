@@ -13,15 +13,17 @@ Explore the app’s features instantly—no setup required!
 
 ## 🚀 Features
 
-- ⚡ Fast performance using Vite
+- ⚡ Lightning-fast performance powered by Vite
 - 📱 Fully responsive UI with Tailwind CSS
 - 🔍 Search for orders by ID
-- 📝 Dynamic pizza menu (title, image, ingredients, price)
-- 🛒 Add to cart, edit quantities, remove items, and clear cart
-- 📍 Get address with geolocation or manual input
-- 🚚 Place priority orders with automatic 20% price adjustment
+- 📝 Dynamic pizza menu with titles, images, ingredients, and prices
+- 🛒 Cart management: add, update quantities, remove items, and clear cart
+- 📍 Address input via geolocation or manual entry
+- 🚚 Priority ordering with automatic 20% price adjustment
 - 🧠 State management using Redux Toolkit + Redux Thunks
-- 🧭 Routing powered by modern React Router loaders/actions and `useFetcher`
+- 🧭 Seamless navigation with React Router loaders, actions
+
+---
 
 ## 📦 Tech Stack
 
